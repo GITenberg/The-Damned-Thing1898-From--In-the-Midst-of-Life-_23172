@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ambrose_Bierce
     - http://www.gutenberg.org/ebooks/author/44231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23172#The-Damned-Thing1898-From--In-the-Midst-of-Life-
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text

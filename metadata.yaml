@@ -1,0 +1,34 @@
+_repo: The-Damned-Thing1898-From--In-the-Midst-of-Life-_23172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+description: ''
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Horror tales'
+- !lcsh 'Short stories'
+title: 'The Damned Thing
+
+  1898, From "In the Midst of Life"'
+url: http://www.gutenberg.org/ebooks/23172
